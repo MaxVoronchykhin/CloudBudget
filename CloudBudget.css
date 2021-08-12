@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+@import url(CloudBudget_header.css);
+@import url(../../Reset.css/Reset.css);
+* {
+    box-sizing: border-box;
+}

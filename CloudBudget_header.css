@@ -1,0 +1,37 @@
+header img {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 1.22;
+}
+.container {
+    width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header > div {
+    display: flex;
+    justify-content: space-between;
+}
+header ul {
+    display: flex;
+    gap: 20px;
+}
+header button {
+    width: 100px;
+    height: 40px;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+header li {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 1.21;
+}
+header a {
+    text-decoration: none;
+}
